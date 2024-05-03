@@ -1,0 +1,22 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Cloud
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Cloud_baseColor.png
+map_Ke lighiting_emissive.png
+
+newmtl Rain
+Ns 38.399990
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd lighiting_baseColor.png
+map_Ke lighiting_emissive.png
+map_d lighiting_baseColor.png
